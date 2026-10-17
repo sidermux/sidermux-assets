@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><g transform="translate(32 32) scale(0.9688) translate(-31.3 -32)"><g transform="translate(6.4 0) skewX(-11.30993)">
+  <path d="M22 8.5 Q22 6.3 24 7.1 L42.6 20.3 Q44 21.2 44 23 L44 41 Q44 42.8 42.6 43.7 L24 56.9 Q22 57.7 22 55.5 Z" fill="#E25E28"/>
+  <g fill="#ECEEF0">
+    <rect x="5" y="15.5" width="12" height="5"/><rect x="0" y="29.5" width="17" height="5"/><rect x="7" y="43.5" width="10" height="5"/>
+    <path d="M49 29.5 H53 V25 L63 32 L53 39 V34.5 H49 Z"/>
+  </g></g></g></svg>
